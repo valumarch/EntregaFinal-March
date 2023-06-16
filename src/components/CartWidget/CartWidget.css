@@ -1,0 +1,14 @@
+.cartWidget{
+    text-decoration: none;
+    color: #000;
+}
+.imgCarrito{
+    height: 30px;
+    width: auto;
+    cursor: pointer;
+}
+span{
+    margin-left: 0.5rem;
+    text-decoration: none;
+    color: #000;
+}

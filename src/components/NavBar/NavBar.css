@@ -1,0 +1,32 @@
+.navbar{
+    background-color: #885053;
+    color: #fff;
+    position: fixed;
+    width: 100%;
+    top:0;
+}
+
+.tituloNav{
+    font-size: 30px;
+    text-transform: uppercase;
+    padding: 1rem;
+    padding-left: 2rem;
+}
+
+ul{
+    margin-left: 1.5rem; 
+    list-style-type: none;
+}
+
+li{
+    margin-right: 0.7rem;
+    cursor: pointer;
+}
+
+.linkNav{
+    text-decoration: none;
+    color: #fff;
+}
+.linkNav:hover{
+    color:#D9BFC0 !important;
+}

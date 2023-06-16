@@ -1,0 +1,44 @@
+.checkout{
+    width: 80%;
+    margin-left: 10%;
+    margin-top: 8rem;
+    text-align: center;
+    margin-bottom: 8rem;
+}
+
+.checkoutTitle{
+    color: #885053;
+    font-weight: lighter;
+    text-transform: uppercase;
+    border-bottom: 0.5px solid #885053;
+    padding-bottom: 1.5rem;
+    margin-bottom: 1rem;
+}
+
+input{
+    padding: 0.5rem;
+    margin: 0.5rem;
+    background-color: #fff;
+    color: black;
+    border: solid 1px #885053;
+    border-radius: 3px;
+}
+
+.btnFinalizar{
+    padding: 0.5rem;
+    margin:1rem;
+    background-color: #fff;
+    color: #885053;
+    border: solid 1px #885053;
+    border-radius: 3px;
+}
+
+.btnFinalizar:hover{
+    background-color: #885053;
+    color: #fff;
+
+}
+
+.error{
+    color: red;
+}

@@ -1,0 +1,30 @@
+.contenedorDetalles{
+    width: 70%;
+    text-align: center;
+    border: solid 1px #885053;
+    margin: 3rem 15%;
+    display: flex;
+    margin-top: 10rem;  
+}
+
+.detalles{
+    display: flex;
+    flex-direction: column;
+    margin-left: 20%;
+    text-align: center;
+}
+
+.imgDetalles{
+    width: 300px;
+    object-fit: contain;
+    padding: 0.3rem;
+}
+
+.tituloDetalles{
+    text-transform: uppercase;
+    color: #885053;
+    font-weight: normal;
+    font-size: 1.7rem;
+    padding-top: 0.5rem;
+    padding-left: 1.5rem;
+}

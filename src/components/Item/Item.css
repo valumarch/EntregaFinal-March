@@ -1,0 +1,39 @@
+.cardProducto{
+    margin: 2rem;
+    background-color: #F7F2F2;
+    border-radius: 15px;
+    width: 16rem;
+    padding: 1rem;
+    border: solid 1px #885053;
+}
+.nombreProducto{
+    text-transform: uppercase;
+    color: #885053;
+    font-weight: normal;
+    font-size: 1.3rem;
+    padding-top: 0.5rem;
+}
+
+.imgProducto {
+    width: 200px;
+    object-fit: contain;
+    border-radius: 15px 15px 0 0;
+}
+
+.btnProducto{
+    padding: 0.5rem;
+    border-radius: 5px;
+    background-color: #885053;
+    color: #F7F2F2;
+    text-decoration: none;
+    margin-bottom: 1rem;
+}
+
+.btnProducto:hover{
+    color:#885053;
+    background-color: #F7F2F2;
+}
+
+.textoProdudcto{
+    font-size: 1rem;
+}

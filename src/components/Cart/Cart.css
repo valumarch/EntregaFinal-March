@@ -1,0 +1,55 @@
+.cart{
+    text-align: center;
+    border: solid 1px #885053;
+    margin-top: 4rem;
+    width: 70%;
+    margin-left: 15%;
+    padding: 2rem;
+    display: flex;
+    flex-direction: column;
+    margin-top: 8rem;
+}
+
+.cartHeader{
+    color:#885053;
+    text-transform: uppercase;
+    font-weight: lighter;
+    padding-bottom: 1.5rem;
+}
+
+.btnCart{
+    color:#885053;
+    text-decoration: none;
+    background-color: #fff;
+    border: 1px solid #885053;
+    border-radius: 5px;
+    padding: 0.5rem;
+    margin-top: 0.5rem;
+}
+
+.btnCart:hover{
+    color: #fff;
+    background-color: #885053;
+}
+
+.btnVaciar{
+    background-color: #fff;
+    color: #000;
+    border: none;
+}
+.btnVaciar:hover{
+    color:#885053;
+}
+
+.cartTotal{
+    text-transform: uppercase;
+    font-weight: lighter;
+}
+
+hr{
+    color: #885053;
+}
+
+.cartCantidad{
+    font-size: small;
+}

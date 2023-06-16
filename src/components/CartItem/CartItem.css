@@ -1,0 +1,14 @@
+.cartItem{
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+    padding-bottom: 2rem;
+    padding-top: 1rem;
+    border-top: 0.5px solid #885053;
+}
+
+.cartTitulo{
+    text-transform: uppercase;
+    font-weight: normal;
+    color: #885053;
+}
